@@ -5,6 +5,7 @@ Set of functions that runs SmartSheet API through Excel VBA
 ### 1. VBA JSON Parser
 This library will be used to deal with JSON responses from API responses
 - Download from original creator: [VBA-JSON-PARSER](https://medium.com/swlh/excel-vba-parse-json-easily-c2213f4d8e7a)
+
 Import module named as "Module_VBA_JSON_PARSER" into Excel VBA.
 ### 2. Excel VBA References
 The following VBA libraries must be activated. 
